@@ -1,1 +1,4 @@
 res://Grid.gd
+res://grid_container.tscn
+res://GridContainerScript.gd
+res://grid_container.gd

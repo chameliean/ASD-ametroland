@@ -9,7 +9,7 @@ var columns = 10
 var cell_size = Vector2(64, 64)
 
 # Cell scene to instance (this should be a pre-made scene with a script attached)
-var cell_scene = preload("res://Grid.tscn")
+var cell_scene = preload("res://grid_container.tscn")
 
 func _ready():
 	draw_grid()
